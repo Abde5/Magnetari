@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 52ff7c9e199216e4f8e139953831c093
+timeCreated: 1501353118
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: antbrazo izq 1
+    100002: antbrazo izq 2
+    100004: antebrazo der 1
+    100006: antebrazo der 2
+    100008: Bone001
+    100010: Bone002
+    100012: Bone003
+    100014: Bone004
+    100016: Bone005
+    100018: Bone006
+    100020: Bone007
+    100022: Bone008
+    100024: Bone009
+    100026: Bone010
+    100028: Bone011
+    100030: Bone012
+    100032: Bone013
+    100034: Bone014
+    100036: Bone015
+    100038: Bone016
+    100040: brazo der 1
+    100042: brazo der 2
+    100044: brazo derecho
+    100046: brazo izq 1
+    100048: brazo izq 2
+    100050: brazo izquierdo
+    100052: Cuerpo Iman
+    100054: gemelo der 1
+    100056: gemelo der 2
+    100058: gemelo izq 1
+    100060: gemelo izq 2
+    100062: hombro der
+    100064: hombro izq
+    100066: //RootNode
+    100068: IK Chain001
+    100070: IK Chain002
+    100072: IK Chain005
+    100074: IK Chain006
+    100076: IK Chain007
+    100078: IK Chain008
+    100080: look
+    100082: mano der
+    100084: mano izq
+    100086: muslo izq 1
+    100088: muslo izq 2
+    100090: musloder 1
+    100092: musloder 2
+    100094: ojo derecho
+    100096: ojo izquierdo
+    100098: ParpadosInf
+    100100: ParpadosSup
+    100102: pie der 1
+    100104: pie der 2
+    100106: pie izq 1
+    100108: pie izq 2
+    100110: pierna derecha
+    100112: pierna izquierda
+    100114: pisada der
+    100116: pisada izq
+    100118: pj entero
+    100120: punta pie der
+    100122: punta pie izq
+    100124: pupila izquierda
+    100126: Pupilas
+    100128: torso
+    100130: torso con brazos(como cadera)
+    400000: antbrazo izq 1
+    400002: antbrazo izq 2
+    400004: antebrazo der 1
+    400006: antebrazo der 2
+    400008: Bone001
+    400010: Bone002
+    400012: Bone003
+    400014: Bone004
+    400016: Bone005
+    400018: Bone006
+    400020: Bone007
+    400022: Bone008
+    400024: Bone009
+    400026: Bone010
+    400028: Bone011
+    400030: Bone012
+    400032: Bone013
+    400034: Bone014
+    400036: Bone015
+    400038: Bone016
+    400040: brazo der 1
+    400042: brazo der 2
+    400044: brazo derecho
+    400046: brazo izq 1
+    400048: brazo izq 2
+    400050: brazo izquierdo
+    400052: Cuerpo Iman
+    400054: gemelo der 1
+    400056: gemelo der 2
+    400058: gemelo izq 1
+    400060: gemelo izq 2
+    400062: hombro der
+    400064: hombro izq
+    400066: //RootNode
+    400068: IK Chain001
+    400070: IK Chain002
+    400072: IK Chain005
+    400074: IK Chain006
+    400076: IK Chain007
+    400078: IK Chain008
+    400080: look
+    400082: mano der
+    400084: mano izq
+    400086: muslo izq 1
+    400088: muslo izq 2
+    400090: musloder 1
+    400092: musloder 2
+    400094: ojo derecho
+    400096: ojo izquierdo
+    400098: ParpadosInf
+    400100: ParpadosSup
+    400102: pie der 1
+    400104: pie der 2
+    400106: pie izq 1
+    400108: pie izq 2
+    400110: pierna derecha
+    400112: pierna izquierda
+    400114: pisada der
+    400116: pisada izq
+    400118: pj entero
+    400120: punta pie der
+    400122: punta pie izq
+    400124: pupila izquierda
+    400126: Pupilas
+    400128: torso
+    400130: torso con brazos(como cadera)
+    2300000: Cuerpo Iman
+    2300002: ojo derecho
+    2300004: ojo izquierdo
+    2300006: ParpadosInf
+    2300008: ParpadosSup
+    2300010: pupila izquierda
+    2300012: Pupilas
+    3300000: Cuerpo Iman
+    3300002: ojo derecho
+    3300004: ojo izquierdo
+    3300006: ParpadosInf
+    3300008: ParpadosSup
+    3300010: pupila izquierda
+    3300012: Pupilas
+    4300000: brazo derecho
+    4300002: brazo izquierdo
+    4300004: pierna derecha
+    4300006: pierna izquierda
+    4300008: Cuerpo Iman
+    4300010: ParpadosSup
+    4300012: ojo derecho
+    4300014: Pupilas
+    4300016: ojo izquierdo
+    4300018: pupila izquierda
+    4300020: ParpadosInf
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: brazo derecho
+    13700002: brazo izquierdo
+    13700004: pierna derecha
+    13700006: pierna izquierda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Abdulito/Items/Nivel Abdulito.unity
+  isLoaded: 1
+  isActive: 1

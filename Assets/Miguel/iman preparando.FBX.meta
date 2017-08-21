@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 356db392ffccfce4c82ee9247ce5238a
+timeCreated: 1501320342
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: brazo derecho
+    100002: brazo izquierdo
+    100004: Cuerpo Iman
+    100006: Dummy001
+    100008: //RootNode
+    100010: ojo derecho
+    100012: ojo izquierdo
+    100014: ParpadosInf
+    100016: ParpadosSup
+    100018: pierna derecha
+    100020: pierna izquierda
+    100022: pupila izquierda
+    100024: Pupilas
+    400000: brazo derecho
+    400002: brazo izquierdo
+    400004: Cuerpo Iman
+    400006: Dummy001
+    400008: //RootNode
+    400010: ojo derecho
+    400012: ojo izquierdo
+    400014: ParpadosInf
+    400016: ParpadosSup
+    400018: pierna derecha
+    400020: pierna izquierda
+    400022: pupila izquierda
+    400024: Pupilas
+    2300000: brazo derecho
+    2300002: brazo izquierdo
+    2300004: Cuerpo Iman
+    2300006: ojo derecho
+    2300008: ojo izquierdo
+    2300010: ParpadosInf
+    2300012: ParpadosSup
+    2300014: pierna derecha
+    2300016: pierna izquierda
+    2300018: pupila izquierda
+    2300020: Pupilas
+    3300000: brazo derecho
+    3300002: brazo izquierdo
+    3300004: Cuerpo Iman
+    3300006: ojo derecho
+    3300008: ojo izquierdo
+    3300010: ParpadosInf
+    3300012: ParpadosSup
+    3300014: pierna derecha
+    3300016: pierna izquierda
+    3300018: pupila izquierda
+    3300020: Pupilas
+    4300000: Cuerpo Iman
+    4300002: ojo derecho
+    4300004: Pupilas
+    4300006: ParpadosSup
+    4300008: ParpadosInf
+    4300010: brazo derecho
+    4300012: brazo izquierdo
+    4300014: pierna derecha
+    4300016: pierna izquierda
+    4300018: ojo izquierdo
+    4300020: pupila izquierda
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
